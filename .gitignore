@@ -176,6 +176,8 @@ cython_debug/
 
 # YOLO stuff
 Lethal-Yolo-1
+Lethal-Company-Object-Detection-V2-2
+test_data
 runs
 output.jpg
 test.mp4
